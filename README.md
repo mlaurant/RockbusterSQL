@@ -9,3 +9,5 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 5. Do sales figures vary between geographic regions?
 ## Data
 [Click here] (http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip) to access the raw data used. 
+## Visualizations
+Some visualizations for this project were completed in Tableau and can be accessed [here] (https://public.tableau.com/views/RockbusterGlobalCustomers_16912682239360/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link).
